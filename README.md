@@ -1,4 +1,4 @@
-## Basic Software Design and Engineering
+## Software Design and Engineering
 
 Category One is concerned with Software Design and Engineering. I will illustrate my work, using an artifact from a previous course in which I recently participated. The artifact I will be using for my first category will be from CS 330: Computational Graphics and Visualization. In this course, I created interactive 3D objects using application programming interface libraries and best practices. I will wrote code in OpenGL to create the four following primitive shapes:
 
@@ -289,6 +289,8 @@ void processInput(GLFWwindow *window)
 		camera.ProcessKeyboard(RIGHT, deltaTime);
 }
 ```
+
+### Support or Contact
 
 In completing this artifact, I gained a better understanding of the principles and best practices used to develop high-quality software. For more details, you can download this artifact [Here](https://github.com/FeliciaSchenkelberg/CS330-T5453).
 
