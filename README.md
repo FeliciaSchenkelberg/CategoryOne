@@ -156,7 +156,7 @@ float Tree[] = {
 	};
 ```
 
-I also applied accurately projected textures to a 3D model. Selecting two objects to texture.
+I applied accurately projected textures to a 3D model. Selecting two objects to texture.
 
 ```markdown
   // bind diffuse map
@@ -168,7 +168,7 @@ I also applied accurately projected textures to a 3D model. Selecting two object
 	glBindTexture(GL_TEXTURE_2D, gravelTexture);
 ```
 
-I applied lighting to create a polished visualization of 3D models
+I applied lighting to create a polished visualization of 3D models.
 
 ```markdown
   /*
